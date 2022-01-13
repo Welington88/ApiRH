@@ -144,6 +144,7 @@
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/welingtonmarquezini/Projects/apiRH/apiRH/obj/Debug/net5.0/apiRH.csproj.AssemblyReference.cache
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/obj/Debug/net5.0/apiRH.GeneratedMSBuildEditorConfig.editorconfig
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/obj/Debug/net5.0/apiRH.AssemblyInfoInputs.cache
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/obj/Debug/net5.0/apiRH.AssemblyInfo.cs
@@ -159,4 +160,3 @@
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/obj/Debug/net5.0/ref/apiRH.dll
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/obj/Debug/net5.0/apiRH.pdb
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/obj/Debug/net5.0/apiRH.genruntimeconfig.cache
-/Users/welingtonmarquezini/Projects/apiRH/apiRH/obj/Debug/net5.0/apiRH.csproj.AssemblyReference.cache
