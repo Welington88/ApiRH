@@ -7853,7 +7853,7 @@
       "outputPath": "/Users/welingtonmarquezini/Projects/apiRH/apiRH/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/welingtonmarquezini/.nuget/NuGet/NuGet.Config"
+        "/Users/welingtonmarquezini/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
