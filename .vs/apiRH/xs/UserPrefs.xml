@@ -1,0 +1,20 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{C3D019F8-C3AE-46CD-996F-7F66829DA0F7}|Default">
+  <MonoDevelop.Ide.ItemProperties.apiRH PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="apiRH" expanded="True" selected="True">
+            <Node name="apiRH" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
