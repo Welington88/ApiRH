@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  apirh:
+    image: ${DOCKER_REGISTRY-}apirh
+    build:
+      context: .
+      dockerfile: apiRH/Dockerfile
