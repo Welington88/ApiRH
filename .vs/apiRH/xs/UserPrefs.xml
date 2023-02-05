@@ -1,26 +1,36 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{C3D019F8-C3AE-46CD-996F-7F66829DA0F7}|Default">
-  <MonoDevelop.Ide.ItemProperties.apiRH PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{C3D019F8-C3AE-46CD-996F-7F66829DA0F7}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workbench ActiveDocument="apiRH/appsettings.json">
+    <Files>
+      <File FileName="apiRH/Models/Colaborador.cs" />
+      <File FileName="apiRH/Startup.cs" Line="19" Column="43" />
+      <File FileName="docker-compose.yml" />
+      <File FileName="apiRH/Dockerfile" />
+      <File FileName="apiRH/Program.cs" />
+      <File FileName="apiRH/appsettings.json" Line="4" Column="5" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="apiRH" expanded="True">
             <Node name="apiRH" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
               <Node name="appsettings.json" selected="True" />
             </Node>
-            <Node name="docker-compose" expanded="True">
-              <Node name="docker-compose.yml" expanded="True" />
-            </Node>
+            <Node name="docker-compose" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.apiRH PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

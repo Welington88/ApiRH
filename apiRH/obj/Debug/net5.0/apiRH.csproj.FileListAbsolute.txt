@@ -1,10 +1,10 @@
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/bin/Debug/net5.0/appsettings.Development.json
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/bin/Debug/net5.0/appsettings.json
+/Users/welingtonmarquezini/Projects/apiRH/apiRH/bin/Debug/net5.0/apiRH
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/bin/Debug/net5.0/apiRH.deps.json
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/bin/Debug/net5.0/apiRH.runtimeconfig.json
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/bin/Debug/net5.0/apiRH.runtimeconfig.dev.json
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/bin/Debug/net5.0/apiRH.dll
-/Users/welingtonmarquezini/Projects/apiRH/apiRH/bin/Debug/net5.0/ref/apiRH.dll
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/bin/Debug/net5.0/apiRH.pdb
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/bin/Debug/net5.0/Dapper.dll
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/bin/Debug/net5.0/Humanizer.dll
@@ -151,12 +151,12 @@
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/obj/Debug/net5.0/apiRH.csproj.CoreCompileInputs.cache
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/obj/Debug/net5.0/apiRH.MvcApplicationPartsAssemblyInfo.cs
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/obj/Debug/net5.0/apiRH.MvcApplicationPartsAssemblyInfo.cache
-/Users/welingtonmarquezini/Projects/apiRH/apiRH/obj/Debug/net5.0/staticwebassets/apiRH.StaticWebAssets.Manifest.cache
-/Users/welingtonmarquezini/Projects/apiRH/apiRH/obj/Debug/net5.0/staticwebassets/apiRH.StaticWebAssets.xml
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/obj/Debug/net5.0/scopedcss/bundle/apiRH.styles.css
+/Users/welingtonmarquezini/Projects/apiRH/apiRH/obj/Debug/net5.0/staticwebassets/apiRH.StaticWebAssets.Manifest.cache
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/obj/Debug/net5.0/apiRH.RazorTargetAssemblyInfo.cache
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/obj/Debug/net5.0/apiRH.csproj.CopyComplete
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/obj/Debug/net5.0/apiRH.dll
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/obj/Debug/net5.0/ref/apiRH.dll
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/obj/Debug/net5.0/apiRH.pdb
 /Users/welingtonmarquezini/Projects/apiRH/apiRH/obj/Debug/net5.0/apiRH.genruntimeconfig.cache
+/Users/welingtonmarquezini/Projects/apiRH/apiRH/obj/Debug/net5.0/refint/apiRH.dll
